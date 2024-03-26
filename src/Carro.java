@@ -8,6 +8,7 @@ public class Carro {
     private double quilometragem;
     private double preco;
 
+
     // Construtor
     public Carro (String marca, String modelo, int ano, String cor, double quilometragem, double preco) {
         this.marca = marca;
